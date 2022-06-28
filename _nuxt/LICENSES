@@ -33,13 +33,6 @@
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
 
 /*!
  * Pikaday
@@ -110,7 +103,6 @@ and limitations under the License.
  */
 
 //! moment.js
-
 
 /*!
  * PSPDFKit for Web 2022.2.3 (https://pspdfkit.com/web)

@@ -33,7 +33,7 @@
     */
 
 /*!
- * Pusher JavaScript Library v7.0.6
+ * Pusher JavaScript Library v7.6.0
  * https://pusher.com/
  *
  * Copyright 2020, Pusher
@@ -68,6 +68,7 @@
  * Copyright © 2014 David Bushell | BSD & MIT license | https://github.com/Pikaday/Pikaday
  */
 
+
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation. All rights reserved.
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
@@ -83,7 +84,7 @@ See the Apache Version 2.0 License for specific language governing permissions
 and limitations under the License.
 ***************************************************************************** */
 
-/*! @license DOMPurify 2.3.6 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.3.6/LICENSE */
+/*! @license DOMPurify 2.4.5 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.4.5/LICENSE */
 
 /**
  * @preserve
@@ -95,14 +96,8 @@ and limitations under the License.
 
 
 /*!
-  * vue-router v3.5.2
-  * (c) 2021 Evan You
-  * @license MIT
-  */
-
-/*!
- * Vue.js v2.6.14
- * (c) 2014-2021 Evan You
+ * Vue.js v2.7.14
+ * (c) 2014-2022 Evan You
  * Released under the MIT License.
  */
 
@@ -113,15 +108,84 @@ and limitations under the License.
  */
 
 
-/*!
- * PSPDFKit for Web 2022.2.3 (https://pspdfkit.com/web)
- *
- * Copyright (c) 2016-2022 PSPDFKit GmbH. All rights reserved.
- *
- * THIS SOURCE CODE AND ANY ACCOMPANYING DOCUMENTATION ARE PROTECTED BY INTERNATIONAL COPYRIGHT LAW
- * AND MAY NOT BE RESOLD OR REDISTRIBUTED. USAGE IS BOUND TO THE PSPDFKIT LICENSE AGREEMENT.
- * UNAUTHORIZED REPRODUCTION OR DISTRIBUTION IS SUBJECT TO CIVIL AND CRIMINAL PENALTIES.
- * This notice may not be removed from this file.
- *
- * PSPDFKit uses several open source third-party components: https://pspdfkit.com/acknowledgements/web/
- */
+/*! ./browser */
+
+/*! ./functions */
+
+/*! ./html */
+
+/*! ./image */
+
+/*! ./js/init */
+
+/*! ./json */
+
+/*! ./modal */
+
+/*! ./pdf */
+
+/*! ./print */
+
+/*! ./raw-html */
+
+/*! ./sass/index.scss */
+
+/*! ./src/index.js */
+
+/*! exports provided: addWrapper, capitalizePrint, collectStyles, addHeader, cleanUp, isRawHTML */
+
+/*! exports provided: default */
+
+/*! no static exports found */
+
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+
+/*!***********************!*\
+  !*** ./src/js/pdf.js ***!
+  \***********************/
+
+/*!************************!*\
+  !*** ./src/js/html.js ***!
+  \************************/
+
+/*!************************!*\
+  !*** ./src/js/init.js ***!
+  \************************/
+
+/*!************************!*\
+  !*** ./src/js/json.js ***!
+  \************************/
+
+/*!*************************!*\
+  !*** ./src/js/image.js ***!
+  \*************************/
+
+/*!*************************!*\
+  !*** ./src/js/modal.js ***!
+  \*************************/
+
+/*!*************************!*\
+  !*** ./src/js/print.js ***!
+  \*************************/
+
+/*!***************************!*\
+  !*** ./src/js/browser.js ***!
+  \***************************/
+
+/*!****************************!*\
+  !*** ./src/js/raw-html.js ***!
+  \****************************/
+
+/*!****************************!*\
+  !*** multi ./src/index.js ***!
+  \****************************/
+
+/*!*****************************!*\
+  !*** ./src/js/functions.js ***!
+  \*****************************/
+
+/*!*****************************!*\
+  !*** ./src/sass/index.scss ***!
+  \*****************************/
